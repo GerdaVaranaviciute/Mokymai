@@ -21,6 +21,9 @@ namespace Namu_darbas
             string studijuProgramosPavadinimas = "Ekonomika";
             int atsiskaitytuKredituSkaicius = 402;
 
+            // komentaras
+            // komentaras
+            // komentaras
         }
     }
 }
