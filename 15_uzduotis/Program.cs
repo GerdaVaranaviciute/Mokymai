@@ -42,7 +42,6 @@ namespace _15_uzduotis
                     Console.WriteLine(i);
                 }
             }
-
         }
     }
 }
